@@ -28,9 +28,12 @@ This is a Machine Learning web app that predicts diseases like Fungal infection,
    `streamlit run app.py`
 
 ## 📸 Screenshots
-Screenshot_20261026_151353.png
 
-Screenshot_20261026_151410.png
+### 1. Home Page
+<img src="https://github.com/MShehroze-Stack/disease-prediction-app/blob/main/Screenshot_20261026_151353.png?raw=true" width="700">
+
+### 2. Prediction Result
+<img src="https://github.com/MShehroze-Stack/disease-prediction-app/blob/main/Screenshot_20261026_151410.png?raw=true" width="700">
 
 ### 👨‍💻 Author
 **M Shehroze Baig** - [LinkedIn](https://www.linkedin.com/in/m-shehroze-baig/)
