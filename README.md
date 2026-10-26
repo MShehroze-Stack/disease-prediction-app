@@ -29,11 +29,11 @@ This is a Machine Learning web app that predicts diseases like Fungal infection,
 
 ## 📸 Screenshots
 
-### Home Page
-![Home](Screenshot_20251026_151413.png)
+### Home Page - Symptom Selection
+![Home Page](Screenshot_20251026_151413.png)
 
 ### Prediction Result
-![Result](Screenshot_20251026_151501.png)
+![Prediction Result](Screenshot_20251026_151501.png)
 
 ### 👨‍💻 Author
 **M Shehroze Baig** - [LinkedIn](https://www.linkedin.com/in/m-shehroze-baig/)
