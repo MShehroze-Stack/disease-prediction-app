@@ -29,6 +29,7 @@ This is a Machine Learning web app that predicts diseases like Fungal infection,
 
 ## 📸 Screenshots
 Screenshot_20261026_151353.png
+
 Screenshot_20261026_151410.png
 
 ### 👨‍💻 Author
